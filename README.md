@@ -200,7 +200,3 @@ Replace `CityCol` and `$B2` appropriately:
 **Author:** *Shreya Pandey*
 **Tools used:** Microsoft Excel, PowerPoint
 **Last updated:** Oct 2025
-
-```
-- Produce a one-line GitHub repo description to match this README. Which would you prefer?
-```

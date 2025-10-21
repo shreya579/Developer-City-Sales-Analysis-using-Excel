@@ -1,7 +1,5 @@
-# Developer-City-Sales-Analysis-using-Excel
-
 ---
-# Developer & City Sales Analysis (Oct 2024 → Oct 2025)
+# Developer & City Sales Analysis
 
 ## Table of Contents
 - [Project Overview](#project-overview)

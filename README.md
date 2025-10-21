@@ -198,5 +198,7 @@ Replace `CityCol` and `$B2` appropriately:
 ## Author & Tools
 
 **Author:** *Shreya Pandey*
+
 **Tools used:** Microsoft Excel, PowerPoint
+
 **Last updated:** Oct 2025
